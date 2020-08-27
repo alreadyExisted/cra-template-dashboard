@@ -1,0 +1,19 @@
+{
+  "name": "cra-template-dashboard",
+  "version": "1.0.0",
+  "description": "React Dashboard Template for Create React App",
+  "main": "template.json",
+  "author": "alreadyExisted",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alreadyExisted/cra-template-dashboard.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alreadyExisted/cra-template-dashboard/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
